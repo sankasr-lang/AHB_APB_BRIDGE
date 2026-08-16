@@ -1,2 +1,0 @@
-# AHB_APB_BRIDGE
-
